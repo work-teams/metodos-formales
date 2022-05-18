@@ -7,7 +7,7 @@ en el cual se pondra en práctica las metodologias, documentación y buenas prá
     |Alumno|Código|
     |---|---|
     |Yanfer Laura, Oscar Stalyn|xxxxxxxx|
-    |Lara Zatta, Jonathan|xxxxxxxx|
+    |Lara Zatta, Jonathan|19200249|
     |Domínguez Matos, Juan Martin|19200275|
     |Marin Evangelista, Jorge Luis|18200275|
     |Torre Arteaga, Alexander|19200246|
