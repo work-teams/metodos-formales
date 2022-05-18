@@ -6,7 +6,7 @@ en el cual se pondra en práctica las metodologias, documentación y buenas prá
 - Integrantes del equipo:
     |Alumno|Código|
     |---|---|
-    |Yanfer Laura, Oscar Stalyn|xxxxxxxx|
+    |Yanfer Laura, Oscar Stalyn|19200260|
     |Lara Zatta, Jonathan|xxxxxxxx|
     |Domínguez Matos, Juan Martin|xxxxxxxx|
     |Marin Evangelista, Jorge Luis|18200275|
